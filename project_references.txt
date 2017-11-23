@@ -1,0 +1,15 @@
+Project References:
+
+https://discussions.udacity.com/t/pickling-pandas-df/174753/2
+https://chrisalbon.com/python/set_the_color_of_a_matplotlib.html
+https://discussions.udacity.com/t/visualize-the-outliers/356187/9
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+https://discussions.udacity.com/t/final-project-feature-selection-and-outliers/349935/11
+https://discussions.udacity.com/t/when-would-we-not-use-feature-scaling/290523/2
+https://discussions.udacity.com/t/valueerror-the-least-populated-class-in-y-has-only-1-member-which-is-too-few/44984/2
+https://discussions.udacity.com/t/worse-performance-with-gridsearchcv/201398/2
+http://blog.nextgenetics.net/?e=102
+https://discussions.udacity.com/t/final-project-evaluation-metrics/173100/2
+https://stackoverflow.com/questions/22903267/what-is-tuning-in-machine-learning
